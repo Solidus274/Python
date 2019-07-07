@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fec84722-140e-419a-9700-1dfd718d34e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_3363_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,12 +85,12 @@
       <workItem from="1562449103733" duration="21000" />
       <workItem from="1562449379175" duration="2372000" />
       <workItem from="1562517885695" duration="1357000" />
-      <workItem from="1562519310662" duration="1266000" />
+      <workItem from="1562519310662" duration="3135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15651000" />
+    <option name="totallyTimeSpent" value="17520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1242" y="0" width="1263" height="1087" extended-state="0" />
